@@ -10,11 +10,10 @@ public class test1 {
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("http://localhost/projects/ecommerce/zdemo/home.php");
-        // this is to make a wait of the web page
-        //driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(60))
         driver.findElement(By.xpath("//a[@href='login.php']//button")).click();
     }
 
+    
     // test case for login with email password and correct email
     @Test
     public void logintest() {
@@ -52,6 +51,7 @@ public class test1 {
         }
     }
 
+    
     // test case for login with wrong password and correct email
     @Test
     public void loginwrongpassword() {
@@ -96,6 +96,8 @@ public class test1 {
             System.out.println("login fail");
         }
     }
+
+    
     @Test
     public void addcart() {
         //signup buttom click
