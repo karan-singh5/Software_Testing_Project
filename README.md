@@ -12,11 +12,44 @@ Automated Web Testing with Selenium &amp; TestNG
 </div>
 
 ## 📸 Screenshots & Project Video:
-- **Project Video**: [Watch the project demo](Screenshorts/videooutput.mp4)
-- **Screenshots**:
-  - ![Test Screenshot 1](path-to-screenshot1)
-  - ![Test Screenshot 2](path-to-screenshot2)
-
+- **Project Video**:
 
 https://github.com/user-attachments/assets/e8cccdef-2836-43a7-bd95-1d890c1c2940
 
+**Screenshots**:
+  - <b>Terminal Output</b>
+    
+    This is the terminal output where its confirom total test run , passes, failures, skips.
+  
+<img height= "300px" width= "600px" src="https://github.com/user-attachments/assets/0546d8ef-a2f8-4f34-a213-bcefecca4f7c" alt="Selenium"/> 
+
+  - <b>XML report.html</b>
+
+    This is the emailable report.html where its showes all the details about the test cases. 
+
+<img height= "300px" width= "600px" src="https://github.com/user-attachments/assets/02f4da79-156b-4ec6-ac90-6bdd64a924d4" alt="Selenium"/>
+
+
+  - <b>Excel Report</b>
+
+<img height= "300px" width= "600px" src="https://github.com/user-attachments/assets/cbae1bb5-3b88-43a3-aa4d-e943b578a85d" alt="Selenium"/>
+
+  - <b>verify the login functionality of drinks- login page</b>
+  
+    Entering a valid email & valid password
+
+<img height= "300px" width= "600px" src="https://github.com/user-attachments/assets/4c0f3f02-6055-4d2b-af79-cf3f54513567" alt="Selenium"/>
+
+  - <b>verify the login functionality of drinks- login page </b>
+
+    Entering a valid email & invalid password
+
+<img height= "300px" width= "600px" src="https://github.com/user-attachments/assets/d6b99a20-0161-42d3-ac05-85787e9650ee" alt="Selenium"/>
+
+  - <b>verifying the product is added to cart or not</b>
+
+    After login the product should be added to cart and if product is alredy added show the pop-up
+
+<img height= "300px" width= "600px" src="https://github.com/user-attachments/assets/a05efd10-3333-4c39-aabf-13f5a3ac2e5d" alt="Selenium"/>
+
+  
