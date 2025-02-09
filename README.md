@@ -12,7 +12,7 @@ Automated Web Testing with Selenium &amp; TestNG
 </div>
 
 ## 📸 Screenshots & Project Video:
-- **Project Video**: [Watch the project demo](link-to-video)
+- **Project Video**: [Watch the project demo](Screenshorts/videooutput.mp4)
 - **Screenshots**:
   - ![Test Screenshot 1](path-to-screenshot1)
   - ![Test Screenshot 2](path-to-screenshot2)
